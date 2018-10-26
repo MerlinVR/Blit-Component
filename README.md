@@ -5,6 +5,11 @@ This allows much lower CPU overhead for using render texture loops to run statef
 
 [Example using the blit component with GPU particles](https://i.imgur.com/Io85hNc.gifv)
 
+#### Example Scene
+*BlitExample.unitypackage* contains a complete setup of both the blit component loop and the camera loop that is commonly used in VRC. If you press play, both of the large quads should fade from black to white and then loop back to black.
+
+![Scene](https://i.imgur.com/yXZi9go.png)
+
 #### Example scene game object configuration
 ![Hierarchy](https://i.imgur.com/c9L13eX.png)
 ![BlitController](https://i.imgur.com/kXOe7zw.png)
