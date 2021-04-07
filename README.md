@@ -1,5 +1,8 @@
 # Blit Component
+## Updated more complete description and implementation https://gist.github.com/MerlinVR/bcbb3a51336fb9a2806fce484152875f
+
 Proposed blit component for avatars and worlds to use in VRChat
+
 
 Canny post here:
 https://vrchat.canny.io/feature-requests/p/graphicsblit-scripts
